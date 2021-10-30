@@ -8,7 +8,7 @@ This is a web app to learn and practice about web development, It's a simple Ban
 git clone, git pull, npm init, npm install express lowdb cors, install docker (https://docs.docker.com/get-started/), install mongo (https://docs.mongodb.com/guides/server/install/)
 
 # Technology used: 
-Your technology stack, listed out. 
+React, Node, Express, Mongo
 
 # Features:
 Create account, login, deposit, withdraw, Your project’s features, and any future features you would like to include.
