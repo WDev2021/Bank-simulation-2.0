@@ -2,7 +2,7 @@
 # Bank-simulation-2.0
 
 # Description/Motivation:
-This is a web app to learn and practice about web development, It's a simple Bank simulation wehere the user can create an accoint, login, deposit and withdraw, also give the admin the ability to see the registered users
+This is a web app to learn and practice about web development, It's a simple Bank simulation wehere the user can create an accoint, login, deposit and withdraw, also give the admin the ability to see the registered users.
 
 # Installation Guidelines: 
 git clone, git pull, npm init, npm install express lowdb cors, install docker (https://docs.docker.com/get-started/), install mongo (https://docs.mongodb.com/guides/server/install/)
