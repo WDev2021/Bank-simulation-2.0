@@ -11,6 +11,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "corsa": "^1.0.2",
+    "dal": "^0.1.0",
     "express": "^4.17.1",
     "http-server": "^14.0.0",
     "lowdb": "^1.0.0",
@@ -23,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/WDev2021/Bank-simulation-2.0/issues"
   },
-  "homepage": "https://github.com/WDev2021/Bank-simulation-2.0#readme"
+  "homepage": "https://github.com/WDev2021/Bank-simulation-2.0#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.4"
+  }
 }
